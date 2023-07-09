@@ -1,8 +1,10 @@
 # Qidi-Printer Definitions
 
+This fork contains updated files for the Qidi X-Plus for Cura 5.x and enables Octoprint support.
+
 ## Installation
 
-With Cura not running, unpack the [Qidi-Printer-Definitions.v1.0.zip](https://github.com/alkaes/Qidi-Printer-Definitions/releases/download/1.0/Qidi-Printer-Definitions.v1.0.zip) to this specific folder:
-  * Windows: `%USERPROFILE%\AppData\Roaming\cura\4.x\`
-  * MacOS: `~/Library/Application Support/Cura/4.x/`
-  * Linux: `/home/<username>/.local/share/cura/4.x/`
+With Cura not running, unpack the [Qidi-Printer-Definitions-X-Plus.zip](https://github.com/stuartmunn/Qidi-Printer-Definitions/archive/refs/tags/X-Plus.zip) to this specific folder:
+  * Windows: `%USERPROFILE%\AppData\Roaming\cura\5.x\`
+  * MacOS: `~/Library/Application Support/Cura/5.x/`
+  * Linux: `/home/<username>/.local/share/cura/5.x/`
